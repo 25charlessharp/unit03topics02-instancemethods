@@ -48,5 +48,6 @@ public class Point2D {
         Point2D p2 = new Point2D(0,0);
 
         System.out.println(p1.distanceTo(p2));
+        System.out.println(p1);
     }
 }
